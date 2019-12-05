@@ -26,19 +26,8 @@ It assumes that the survey data is in the same directory.
 This can be found at https://www.kaggle.com/stackoverflow/so-survey-2017 . 
 
 ## Results <a name="results"></a>
-Throughout the notebook, I set out to answer three questions:
- 
-1. What are the most common languages, technologies, methodologies and tools used by professionals 
-2. What is the average salary for each programming language
-3. Which programming language has the highest job satisfaction
-
-We found out the following:
-
-* JavaScript, C#, Java, SQL and Python are the most used languages by professional developers and therefore would be the most in demand and transferable skill between jobs. To support this, the most used frameworks are mostly JavaScript based. Agile is also the most popular methodology used by professional developers.
-
-* Languages that are known and used by less professionals warrant higher salaries.
-
-* Those who use less popular languages have higher job satisfaction but this may be a correlation between salary and job satisfaction.
+Results
+The main findings of the code can be found at the post available in this link: https://medium.com/p/12d6fad79a7c/edit.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 Must acknowledge Stack Overflow and Kaggle for the data, whose licensing can be found [here](https://www.kaggle.com/stackoverflow/so-survey-2017). 
