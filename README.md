@@ -21,7 +21,7 @@ This project uses a Jupyter Notebook running Python 3 with the libraries numpy, 
 This project was written as part of the Udacity Become a Data Scientist course. I used the Stack Overflow survey data due to my interest in professional software developers.
 
 ## File Descriptions <a name="files"></a>
-Project1.ipynb contains the Python code for this project.
+Write a Data Science Blog Post.ipynb contains the Python code for this project.
 It assumes that the survey data is in the same directory.
 This can be found at https://www.kaggle.com/stackoverflow/so-survey-2017 . 
 
